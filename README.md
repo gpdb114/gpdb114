@@ -1,16 +1,16 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🌞💗
 
-<!--
-**gpdb114/gpdb114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Estou estudando no Alura
 
-Here are some ideas to get you started:
+-Estou me desenvolvendo na linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolviudo
+
+
+### Para entrar em contato comigo 💌💭
+
+0000114115206xsp@al.educacao.sp.gov.br
+
+@gpdb114
+
+![](https://media1.tenor.com/m/QIRqO4ze3uoAAAAC/101dalmatians-puppies.gif)
